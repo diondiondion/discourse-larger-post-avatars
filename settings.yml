@@ -6,15 +6,13 @@ avatar_size:
   description:
     en: "Set the size of post avatars in pixels (default: 45)."
     de: "Ändere die Größe von Avataren in Beiträgen (Einheit: Pixel, Standard: 45)"
- 
- avatar_spacing_right:
+avatar_spacing_right:
   default: 0
   type: string
   description:
     en: "Add extra spacing (in pixels) to the right-hand side of post avatars for a more balanced design with larger avatars."
     de: "Füge einen Abstand (in Pixeln) zwischen Avataren und dem Beitragstext hinzu"
- 
- avatar_border_radius:
+avatar_border_radius:
   default: 50%
   type: string
   description:
