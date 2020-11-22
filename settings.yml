@@ -14,5 +14,5 @@ avatar_border_radius:
   default: 50%
   type: string
   description:
-    en: "Set the border radius of avatars across the forum. Can use any valid CSS size (e.g. px, %, em)."
-    de: "Ändere den border-radius von allen Avataren dieses Forums. Unterstützt jede gültige CSS-Einheit (e.g. px, %, em)."
+    en: "Set the border radius of avatars across the forum. Must include a valid CSS unit (e.g. px, %, em)."
+    de: "Ändere den border-radius von allen Avataren dieses Forums. Die CSS-Einheit (e.g. px, %, em) muss mit angegeben werden."
