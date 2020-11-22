@@ -1,6 +1,5 @@
 avatar_size:
   default: 45
-  type: string
   min: 45
   max: 200
   description:
@@ -8,7 +7,6 @@ avatar_size:
     de: "Ändere die Größe von Avataren in Beiträgen (Einheit: Pixel, Standard: 45)"
 avatar_spacing_right:
   default: 0
-  type: string
   description:
     en: "Add extra spacing (in pixels) to the right-hand side of post avatars for a more balanced design with larger avatars."
     de: "Füge einen Abstand (in Pixeln) zwischen Avataren und dem Beitragstext hinzu"
