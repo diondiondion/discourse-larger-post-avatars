@@ -2,3 +2,13 @@
     width: #{$avatar_size}px;
     padding-right: #{$avatar_spacing_right}px;
 }
+
+.embedded-posts .topic-avatar {
+    width: auto;
+    padding-right: 0;
+ 
+    .avatar {
+        width: 45px;
+        height: auto;
+    }
+}
